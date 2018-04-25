@@ -2,7 +2,7 @@
 
 Primeiro é importante identificarmos um problema muito comum no PHP ao programar Orientado a Objetos. Quando estamos criando nossas classes e precisamos instanciar temos que obrigatoriamente utilizar o fomoso **include** para indicarmos qual classe o nosso objeto está sendo instanciado e é exatamente nesse momento que percebemos um grande problema: Suponhamos que tenhamos 10 classes, teremos que utilizar o include 10 vezes?
 
-Com a função **__autoload()** do PHP isso se resolve, com ela indicamos a nossa pasta raiz que vai conter todas as nossas classes e automáticamente ela se encarregará de carregar para nós quando ocorrer uma nova instancia.
+Com a função **__autoload()** do PHP isso se resolve, com ela indicamos a nossa pasta raiz que vai conter todas as nossas classes e automaticamente ela se encarregará de carregar para nós quando ocorrer uma nova instancia.
 
 Para testar a utilização do autoload vamos criar um projeto básico.
 
