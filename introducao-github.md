@@ -20,6 +20,7 @@ Para os usuários Windows, o Git pode ser baixado direto do site oficial, [clica
 # Configurações de identidade no git
 
 > git config --global user.name "John Doe"
+
 > git config --global user.email johndoe@example.com
 
 # O que é Markdown
