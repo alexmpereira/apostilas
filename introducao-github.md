@@ -17,6 +17,11 @@ Introdução ao Git / Github.
 
 Para os usuários Windows, o Git pode ser baixado direto do site oficial, [clicando aqui](https://git-scm.com/)
 
+# Configurações de identidade no git
+
+> git config --global user.name "John Doe"
+> git config --global user.email johndoe@example.com
+
 # O que é Markdown
 "Desenvolvido em 2004 por John Gruber e Aaron Swartz para simplificar a estruturação de um texto, o Markdown é um sistema de formatação aberto que torna a escrita e a leitura mais simples. Com uma codificação mínima, além de fácil, ele é visualmente mais "limpo" e pode ser convertido facilmente para HTML."
 
