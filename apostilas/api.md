@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="img/api-icon.png" width="400px" />
+    <img src="./../img/api-icon.png" width="400px" />
 </p>
 
 <hr>
@@ -29,7 +29,7 @@ Depois de algum tempo (em 2006) o twitter focou sua API explorando capacidade de
 ### Cliente - Servidor
 
 <p align="center">
-    <img src="img/cliente-servidor.png" width="400px" />
+    <img src="./../img/cliente-servidor.png" width="400px" />
 </p>
 
 O cliente faz uma requisição, essa requisição é um pedido feito para a API. A API recebe a requisição e consulta no servidor ou seja, considere essa requisição como um garçom falando ao servidor (que no caso é a cozinha) o que nosso cliente pediu.
@@ -41,7 +41,7 @@ Mas abaixo vamos entender melhor as requisições e o retorno do servidor.
 ### Requisições
 
 <p align="center">
-    <img src="img/requisicoes.png" width="400px" />
+    <img src="./../img/requisicoes.png" width="400px" />
 </p>
 
 No tópico anterior entedemos que uma requisição é feita pelo cliente para o nosso servidor, mas para que a requisição seja válida ela deve ter um formato específico.
@@ -78,7 +78,7 @@ Aqui é adicionado todos os parâmetros que tornam cada requisição diferente e
 ### Respostas
 
 <p align="center">
-    <img src="img/respostas.png" width="400px" />
+    <img src="./../img/respostas.png" width="400px" />
 </p>
 
 Agora que refinamos o nossa API recebeu nossa informação que queremos uma /noticia e nosso pedido foi transferido para o servidor, o servidor deve interpretar essa informação e retornar algo.
@@ -99,6 +99,6 @@ Todos que já acessou a internet com certeza uma vez na vida pelo menos viu a me
 
 
 <p align="center">
-    <img src="img/ap.png" width="400px" />
+    <img src="./../img/ap.png" width="400px" />
 </p>
 

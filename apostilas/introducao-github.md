@@ -2,7 +2,7 @@
 
 Introdução ao Git / Github.
 
-<img src="img/grafico-versionamento.png" width="500px" />
+<img src="./../img/grafico-versionamento.png" width="500px" />
 
 # O que é?
 
@@ -11,7 +11,7 @@ Introdução ao Git / Github.
 **Fonte**: [Tudo que você queria saber sobre Git e GitHub, mas tinha vergonha de perguntar](https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
 
 ![Github](img/Github.png)
-<img src="img/gitlab.png" width="300px" />
+<img src="./../img/gitlab.png" width="300px" />
 
 # Download do Git
 
@@ -43,7 +43,7 @@ Para os usuários Windows, o Git pode ser baixado direto do site oficial, [clica
 
 ## Fork
 
-![Github](img/fork.png)
+![Github](./../img/fork.png)
 
 Para colaborar em um projeto mantido dentro do github (chamados de repositórios) precisamos criar uma cópia para nossa conta, isso é chamado de **Fork**. Usamos esta opção dentro de um repositório de terceiros, ao clicar, automáticamente o github cria uma cópia desse repositório para dentro do nosso perfil, localizado em nossos repositórios.
 
@@ -63,7 +63,7 @@ git clone URL
 
 Sabemos que ao realizar um fork, estamos criando uma cópia do repositório de terceiros para dentro da nossa lista de repositório. O último passo e o mais importante é contribuir com a comunidade - imagine que suas alterações no repositório que realizou o fork arrume um bug que existia na biblioteca/framework, podemos com o **pull request** comparar o repositório original com a nossa cópia e sugerir essa alteração no repositório original. Feito esse procedimento o criador do repositório original receberá uma notificação de que houve uma sugestão de melhoria no código.
 
-<img src="img/pull-request.png" width="500px" />
+<img src="./../img/pull-request.png" width="500px" />
 
 ## Status do repositório
 
@@ -72,7 +72,7 @@ Para verificar se houve alteração no repositório ou se existe arquivos penden
 ```
 git status
 ```
-<img src="img/git-status.png" width="500px" />
+<img src="./../img/git-status.png" width="500px" />
 
 ## Adicionando modificações no stage
 
@@ -100,7 +100,7 @@ Por padrão quando é criado um repositório a primeira Branch se chama **master
 git checkout -b [nome_da_branch]
 ```
 
-<img src="img/branch.png" width="500px" />
+<img src="./../img/branch.png" width="500px" />
 
 ## Listar Branch's
 

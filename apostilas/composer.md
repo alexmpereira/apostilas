@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="img/logo-composer.png" width="200px" />
+    <img src="./../img/logo-composer.png" width="200px" />
 </p>
 
 Composer é uma ferramenta para gerenciamento de dependências do PHP. Através de um arquivo JSON podemos configurar as dependências do nosso projeto, por exemplo, podemos definir uma versão de framework (Zendframework, Laravel, CakePHP, Codeigniter etc) e também dizer que queremos usar o bootstrap 4 ou materialize.
