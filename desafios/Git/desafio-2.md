@@ -1,3 +1,5 @@
+# Utilizando os comandos do dia-a-dia
+
 1. Criar um arquivo index.html
     - Incluir dentro do arquivo a estrutura básica do HTML
     - Realizar os seguintes comandos no terminal:
