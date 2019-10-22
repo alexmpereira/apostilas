@@ -1,0 +1,1 @@
+1. Crie com o comando _artisan_ um controller chamado **ProdutoController**, lembre-se que o controlle deve ser gerado contendo os principais recursos _(index,show, store, create, edit e delete)_

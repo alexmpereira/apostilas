@@ -1,0 +1,1 @@
+1. Crie um grupo de rotas no arquivo _api.php_ e a URL padrão deve ser **produtos**
