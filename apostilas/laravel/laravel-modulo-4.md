@@ -108,3 +108,29 @@ Remover dados do banco
   $data = App\Client::find(1)
   $data->delete()
 ```
+
+# Modicando Colunas (Bonus 2)
+
+As vezes precisamos alterar uma das colunas, como por exemplo o tamanho de um atributo nome. O Laravel é incrivel fazendo isso com o doctrine/dbal, basta instalar em nossas dependencias:
+
+```PHP
+  composer require doctrine/dbal
+```
+
+### Alterando um atributo
+
+O método change permite que você modifique alguns tipos de colunas existentes para um novo tipo ou modifique os atributos da coluna. Por exemplo, você pode aumentar o tamanho de uma coluna de string. Para ver o método de mudança em ação, vamos aumentar o tamanho da coluna do nome de 25 para 50:
+
+```PHP
+Schema::table('users', function (Blueprint $table) {
+    $table->string('name', 50)->change();
+});
+```
+
+Podemos também deixar o tipo de um atributo null:
+
+```PHP
+Schema::table('users', function (Blueprint $table) {
+    $table->string('name', 50)->nullable()->change();
+});
+```
