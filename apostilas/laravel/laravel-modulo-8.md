@@ -21,4 +21,3 @@ Para acessarmos esses métodos temos duas formas, a primeira é pelo Request e a
 
 - Acessando pela Request: **$value = $request->session()->get('key');**
 - Acessando pelo helper session(): **$value = session('key');**
-
