@@ -1,2 +1,0 @@
-1. Configure o banco de dados no **env**, incluindo o nome da tabela e os dados de acesso ao banco _(não esqueça de criar a tabela no banco)_
-2. Rode o comando para subir as migrations padrões do Laravel no banco de dados.
