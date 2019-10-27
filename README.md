@@ -1,2 +1,1 @@
-Neste repositório criei algumas apostilas e exercícios conforme fui aprendendo os conteúdos. Uso para aplicar em aulas de graduação e pós graduação.
-No diretório exemplos são os projetos baseados nas apostilas.
+Neste repositório criei algumas apostilas e desafios conforme fui aprendendo os conteúdos. Uso para aplicar em aulas de graduação e pós graduação.
